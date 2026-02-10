@@ -156,16 +156,6 @@ export const reactMatrixQuestions = [
     correctAnswer: 'It reduces duplication and makes updates to related entities easier and more consistent',
   },
   {
-    question: 'Which statement best aligns with Redux Toolkit usage at L2?',
-    answers: [
-      'Redux Toolkit is deprecated and should not be used',
-      'Redux Toolkit provides modern Redux utilities to reduce boilerplate',
-      'Redux Toolkit replaces the need for reducers',
-      'Redux Toolkit is only for styling React components',
-    ],
-    correctAnswer: 'Redux Toolkit provides modern Redux utilities to reduce boilerplate',
-  },
-  {
     question: 'When does React.memo typically help the most?',
     answers: [
       'When a component always receives new props references every render',
