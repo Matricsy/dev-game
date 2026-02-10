@@ -1,0 +1,20 @@
+# Dev Run Question Sets
+
+
+Questions created for Dev Run game, focused on learning through gameplay.
+Use them to practice, repeat knowledge, and make learning more engaging.
+
+Live version: https://matricsy.com/game
+
+The questions are based on publicly available skills matrices.
+What is a [skills matrix?](https://matricsy.com/skills-matrix)
+
+---
+## 🤝 Contributing
+
+Contributions are welcome!  
+You can add new questions, improve existing ones, or suggest enhancements.
+
+- Open an issue  
+- Submit a pull request  
+- Share feedback  
